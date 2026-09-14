@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ЗАМІНИ-НА-СВІЙ-URL/sitemap.xml
