@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ЗАМІНИ-НА-СВІЙ-URL/sitemap.xml
+Sitemap: https://msfz.com.ua/sitemap.xml
